@@ -6,13 +6,13 @@
     "JavaScript"
 ]
 
-An object is a collection of related data and/ or functionality which usually consists of several functions and            variables which are called properties and methods when they are inside the objects
+An object is a collection of related data and/ or functionality which usually consists of several functions and variables which are called properties and methods when they are inside the objects
 
 * An object is made up of multiple members.
 * An object has a name eg 'name', 'age'.
 * An object has a value eg 'Ifunanya', '25'
 * An object name and value pair are separated by a comma. eg name: 'Ifunanya',
-* An object name and value are separated by a colon. 
+* An object name and value are separated by a colon.
 
     ```JavaScript
     var person = {
@@ -42,7 +42,8 @@ The above makes 'name', which is the value of person another object. Using the a
 ````JavaScript
 person [age]
 person ['name'] ['first']
-```
+````
 
-### RESOURCES
+## RESOURCES
+
 [MDN web docs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics/)
